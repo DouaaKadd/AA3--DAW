@@ -1,0 +1,15 @@
+{
+  "name": "explorador-paisos",
+  "version": "1.0.0",
+  "description": "Aplicacio isomorfica sense BD: explorador de paisos amb SSR i CSR",
+  "type": "module",
+  "main": "servidor.js",
+  "scripts": {
+    "start": "node servidor.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
+
+
