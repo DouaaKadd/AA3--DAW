@@ -115,4 +115,3 @@ aplicacio.listen(PORT, () => {
   console.log(`Servidor escoltant al port ${PORT}`);
 });
 
-
